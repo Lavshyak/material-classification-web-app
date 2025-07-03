@@ -1,0 +1,3 @@
+npm create vite@latest material-classification-web-app -- --template react-ts
+
+npm install --save-dev @kubb/cli

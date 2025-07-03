@@ -1,0 +1,1 @@
+{"required":["key","value"],"type":"object","properties":{"key":{"type":"string","nullable":true},"value":{"type":"number","format":"float"}},"x-readme-ref-name":"KeyValuePairOfstringAndfloat2"}
